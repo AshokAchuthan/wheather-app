@@ -1,0 +1,41 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+.bx{
+position: fixed;
+  left: 23%;
+  top:20%;
+  padding: 20px;
+  width: 550px;
+  height: 120px;
+  box-shadow: 3px 3px 3px 3px;
+  border-radius: 6px;
+  
+}  
+
+a{
+  text-decoration: none;
+}
+
+
+ input{
+  width: 250px;
+ }
+
+ .out{
+  left: 23%;
+  padding: 20px;
+  width: 550px;
+  height: 450px;
+  text-shadow: 3px 3px 3px black;
+  
+  
+  
+ }
+ h4{
+  font-family: 'Dancing Script', cursive;
+ }
